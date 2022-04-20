@@ -6,7 +6,7 @@ import torch.nn.functional as F
 from torch.distributions import Categorical
 from transformers import T5ForConditionalGeneration,Adafactor
 from transformers import AutoTokenizer, get_linear_schedule_with_warmup
-import OpenMatch as om
+import src as om
 from transformers import AdamW
 
 import torch.distributed as dist

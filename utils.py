@@ -39,7 +39,7 @@ def merge_resfile(split_pattern, output_file):
             res_dict[qid] = sorted(res_dict[qid], key=lambda x: x[1], reverse=True)
             rank = 1 # start from 1
             for pid, score in res_dict[qid]:
-                f.write(qid+' Q0 '+ str(pid) +' '+str(rank)+' '+ str(score) +' openmatch\n')
+                f.write(qid+' Q0 '+ str(pid) +' '+str(rank)+' '+ str(score) +' p3ranker\n')
                 rank+=1
                 cnt+=1
     logging.info("merge total {} lines".format(cnt))
