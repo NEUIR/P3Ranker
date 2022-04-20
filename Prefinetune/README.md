@@ -1,2 +1,3 @@
-# MNLIT5-Prompt-Tuning-
-Prompt Tuning For MNLI (based T5)
+# Prefinetune 
+
+Implementation for Prefinetune. 
