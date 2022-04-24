@@ -8,7 +8,7 @@ Implementation for our SIGIR2022 accepted paper:
 Install dependencies:
 
 ```bash
-git clone https://github.com/GregxmHu/P3-Rankers.git
+git clone https://github.com/NEUIR/P3Ranker.git
 cd P3-Rankers
 pip install -r requirements.txt
 ```
@@ -21,12 +21,18 @@ We will release our few-shot dataset soon.
 Details about the Discrete Prompt Generation can be find in https://github.com/princeton-nlp/LM-BFF
 
 ## Prefinetune 
-Codes and commands to prefinetune are in the directory Prefinetune.
 
+```bash
+cd Reproduce
+```
+And you will find how to do prefinetune.
 ## Reproduce our results
 
-Just need to run the script in the directory called Reproduce.
+```bash
+cd Reproduce
+```
+And you will find how to reproduce.
+## Contact 
 
-
-
+Please send email to hxm183083@gmail.com.
 
