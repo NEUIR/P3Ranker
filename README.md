@@ -18,7 +18,7 @@ We will release our few-shot dataset soon.
 
 ## Prompt Generation
 
-Details about the Discrete Prompt Generation can be find in https://github.com/princeton-nlp/LM-BFF
+Details about the Discrete Prompt Generation can be find in https://github.com/princeton-nlp/LM-BFF and our paper
 
 ## Prefinetune 
 
@@ -28,10 +28,13 @@ cd Reproduce
 And you will find how to do prefinetune.
 ## Reproduce our results
 
+Directly run the scripts we stored in './commands' can reproduce our results. One example is shown below:
+
 ```bash
-cd Reproduce
+bash commands/bert.sh 5
 ```
-And you will find how to reproduce.
+The above command is for reproducing results in our 5-q few-shot scenarios mentioned in our paper. 
+
 ## Contact 
 
 Please send email to hxm183083@gmail.com.
