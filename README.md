@@ -45,11 +45,7 @@ Implementation for our SIGIR2022 accepted paper:
 │   │    ├── bert_maxp.py
 │   │    ├── bert_prompt_.py
 │   │    ├── bert.py
-│   │    ├── conv_knrm.py
-│   │    ├── edrm.py
-│   │    ├── knrm.py
-│   │    ├── t5.py
-│   │    └── tk.py
+│   │    └── t5.py
 │   ├── modules
 │   │    ├── attentons
 │   │    │   ├── __init__.py
