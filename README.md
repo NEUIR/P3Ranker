@@ -33,9 +33,6 @@ Implementation for our SIGIR2022 accepted paper:
 │   │        ├── __init__.py
 │   │        ├── tokenizer.py
 │   │        └── word_tokenizer.py
-│   ├── extractors
-│   │    ├── __init__.py
-│   │    └── classic_extractor.py
 │   ├── metrics
 │   │    ├── __init__.py
 │   │    └── metric.py
