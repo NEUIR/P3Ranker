@@ -42,23 +42,6 @@ Implementation for our SIGIR2022 accepted paper:
 │   │    ├── bert_prompt_.py
 │   │    ├── bert.py
 │   │    └── t5.py
-│   ├── modules
-│   │    ├── attentons
-│   │    │   ├── __init__.py
-│   │    │   ├── multi_head_attention.py
-│   │    │   └── scaled_dot_product_attention.py
-│   │    ├── embedders
-│   │    │   ├── __init__.py
-│   │    │   └── embedder.py
-│   │    ├── encoders
-│   │    │   ├── __init__.py
-│   │    │   ├── cnn_encoder.py
-│   │    │   ├── feed_forward_encoder.py
-│   │    │   ├── positional_encoder.py
-│   │    │   └── transformer_encoder.py
-│   │    └── matchers
-│   │        ├── __init__.py
-│   │        └── kernel_matcher.py
 │   ├── __init__.py
 │   └── utils.py
 ├── README.md
