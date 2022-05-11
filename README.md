@@ -177,6 +177,20 @@ train.py \
 ```
 The above command is for reproducing results in our 5-q few-shot scenarios mentioned in our paper. 
 
+### Evaluation 
+You can use the following script to quickly evaluate produced results which are organized in a trec style.
+
+```python
+from src.metrics import Metric
+metric=Metric()
+qrels="qrels_for_your_test_set"
+trec="your_produced_trec"
+metrics="mrr_cut_10"
+mrr=metric.get_mrr(qrels,trec,metrics)
+print(mrr)
+```
+
+
 ### Trained Checkpoints
 
 We will release our trained checkpoints soon.
