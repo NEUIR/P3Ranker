@@ -1,1 +1,0 @@
-from src.extractors.classic_extractor import ClassicExtractor
