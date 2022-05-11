@@ -27,7 +27,6 @@ Implementation for our SIGIR2022 accepted paper:
 │   │    │   ├── bert_dataset.py
 │   │    │   ├── bertmaxp_dataset.py
 │   │    │   ├── dataset.py
-│   │    │   ├── edrm_dataset.py
 │   │    │   ├── roberta_dataset.py
 │   │    │   └── t5_dataset.py
 │   │    └── tokenizers
