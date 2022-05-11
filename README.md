@@ -182,7 +182,7 @@ The above command is for reproducing results in our 5-q few-shot scenarios menti
 We will release our trained checkpoints soon.
 
 ### Citation
-If you use our code our our data for your research, feel free to cite our publication: 
+If you use our code or our data for your research, feel free to cite our publication: 
 ```bash
 @article{hu2022p,
   title={P $\^{} 3$ Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning},
