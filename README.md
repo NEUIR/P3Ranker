@@ -1,6 +1,6 @@
 # P3 Ranker
 
-P<sup>3</sup> Ranker is a few-shot neural-ir ranker based on pretrained sentence-to-sentence transformers:T5. It's superior performance on few-shot scenatios benefit from the P<sup>3</sup> training paradigm: **P**retraining -> **P**refinetuning -> **P**rompt-based finetuning.
+P<sup>3</sup> Ranker is a few-shot neural-ir ranker based on pretrained sentence-to-sentence transformers: T5. It's superior performances on few-shot scenarios benefit from the P<sup>3</sup> training paradigm: **P**retraining -> **P**refinetuning -> **P**rompt-based finetuning.
 
 ![image](https://github.com/NEUIR/P3Ranker/blob/main/msmarco_results.png)
 
