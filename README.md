@@ -1,8 +1,10 @@
 # P3 Ranker
 
-P<sup>3</sup> Ranker is a few-shot neural-ir ranker based on pretrained sentence-to-sentence transformers:T5. It's superior performance on few-shot scenatios benefit from the P<sup>3</sup> training paradigm: Pretraining - Prefinetuning- Prompt-based finetuning.
+P<sup>3</sup> Ranker is a few-shot neural-ir ranker based on pretrained sentence-to-sentence transformers:T5. It's superior performance on few-shot scenatios benefit from the P<sup>3</sup> training paradigm: **P**retraining -> **P**refinetuning -> **P**rompt-based finetuning.
 
-See my publication to get more information [*P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning*](https://arxiv.org/pdf/2205.01886.pdf)
+See my publication to get more information
+
+* [*P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning*](https://arxiv.org/pdf/2205.01886.pdf)
 ### Project Structures
 ```bash
 ├── commands
