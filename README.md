@@ -6,7 +6,7 @@ P<sup>3</sup> Ranker is a few-shot neural-ir ranker based on pretrained sentence
 
 See my publication to get more information
 
-* [*P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning*](https://arxiv.org/pdf/2205.01886.pdf)
+* [*P<sup>3</sup> Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning*](https://arxiv.org/pdf/2205.01886.pdf)
 ### Project Structures
 ```bash
 ├── commands
