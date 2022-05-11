@@ -177,6 +177,10 @@ train.py \
 ```
 The above command is for reproducing results in our 5-q few-shot scenarios mentioned in our paper. 
 
+### Trained Checkpoints
+
+We will release our trained checkpoints soon.
+
 ### Citation
 If you use our code our our data for your research, feel free to cite our publication: 
 ```bash
