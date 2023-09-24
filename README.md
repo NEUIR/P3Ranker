@@ -193,7 +193,7 @@ print(mrr)
 
 ### Trained Checkpoints
 
-We will release our trained checkpoints soon.
+We have provided all the necessary codes to reproduce our results. Please try to make your operating environment consistent with what we mentioned in **Prerequisites** and then run the corresponding scripts to get the checkpoints.
 
 ### Citation
 If you use our code or our data for your research, feel free to cite our publication: 
